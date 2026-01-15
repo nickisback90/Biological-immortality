@@ -27,10 +27,10 @@ class RuizQuantumImmortalityEngine {
         func displaySignature() {
             print("\n" + "⭐" * 30)
             print("QUANTUM BIOLOGICAL IMMORTALITY ENGINE")
-            print("CREATED BY: \(name)")
-            print("CREATION DATE: \(creationDate)")
+            print("CREATED BY: \(Nicholas Lovo Ruiz)")
+            print("CREATION DATE: \(Jan 15 2026)")
             print("INNOVATION: \(innovation)")
-            print("VERSION: \(version)")
+            print("VERSION: \(1.0.0)")
             print("⭐" * 30 + "\n")
         }
     }
